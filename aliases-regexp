@@ -1,1 +1,2 @@
 /ticket-[0-9]+@it\.geekagency\.ch/ bot@it.geekagency.ch
+/ticket-[0-9]+-[0-9]+@it\.geekagency\.ch/ bot@it.geekagency.ch
