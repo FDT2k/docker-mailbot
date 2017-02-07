@@ -2,4 +2,4 @@
 simple PHP mailbot with postfix.
 
 
-see adaline/dockermail-core for configuration
+see adaline/dockermail-core for accounts configuration
